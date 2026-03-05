@@ -14,11 +14,11 @@ Posteriormente personalicé el diseño del portal modificando diferentes element
 
 A continuación, creé varias **categorías** para organizar correctamente. Algunas de estas categorías incluyen:
 
-- Posts
-- Alimentacion
-- Suplementos (Tienda)
+- Lenguajes de programacion
+- Herramientas y software
+- Tipos de ataques
 
-También publiqué varios artículos de prueba añadiendo títulos, textos, imágenes destacadas y etiquetas para simular el funcionamiento real de un portal de noticias.
+  Tambien he añadido una categoria llamada 'Noticias' donde he puesto algunas noticias sobre el tema del mundo de la informàtica.
 
 ## Configuración del sitio
 
