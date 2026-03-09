@@ -44,7 +44,7 @@ Esta página web está dedicada a la **ciberseguridad**, donde los usuarios pued
 
 En el apartado de **Posts** se publican diferentes artículos relacionados con la ciberseguridad, como explicaciones sobre herramientas o tipos de ataques.
 
-![Text alternatiu](post1.png "Título opcional")
+![Posts](image5.png)
 
 ## Herramientas y Software
 
