@@ -50,7 +50,7 @@ En el apartado de **Posts** se publican diferentes artículos relacionados con l
 
 En esta sección se muestran algunas herramientas importantes utilizadas en ciberseguridad como **Kali Linux**, además de explicaciones sobre su uso.
 
-![Text alternatiu](post2.png "Título opcional")
+![Kali linux](Kali.png)
 
 ## Lenguajes de programación
 
