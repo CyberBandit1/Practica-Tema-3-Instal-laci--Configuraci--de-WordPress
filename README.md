@@ -34,11 +34,9 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 
 Finalmente comprobé que la página funcionara correctamente en distintos dispositivos, asegurando que el diseño sea **responsive** y fácil de usar.
 
-[Enlace a pagina](https://gymgoers.page.gd/ "Título opcional")
-
 # Explicación del Portal
 
-![Text alternatiu](Imagen1.png "Título opcional")
+![Pagina Principal](image1.png)
 
 Esta página web está dedicada a la **ciberseguridad**, donde los usuarios pueden encontrar información básica sobre herramientas, lenguajes y conceptos importantes del mundo de la seguridad informática.
 
