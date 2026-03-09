@@ -56,7 +56,7 @@ En esta sección se muestran algunas herramientas importantes utilizadas en cibe
 
 También hay contenido sobre **lenguajes de programación** como **Python**, **Malware**.. 
 
-![posts](imagen2.png)
+![posts](image2.png)
 
 ## Buscador y Traductor
 
