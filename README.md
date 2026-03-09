@@ -36,7 +36,7 @@ Finalmente comprobé que la página funcionara correctamente en distintos dispos
 
 # Explicación del Portal
 
-![Pagina Principal](image1.png)
+![Pagina Principal](image1.png "Pagina Principal")
 
 Esta página web está dedicada a la **ciberseguridad**, donde los usuarios pueden encontrar información básica sobre herramientas, lenguajes y conceptos importantes del mundo de la seguridad informática.
 
