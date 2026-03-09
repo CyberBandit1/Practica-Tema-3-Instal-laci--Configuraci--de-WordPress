@@ -60,4 +60,5 @@ También hay contenido sobre **lenguajes de programación** como **Python**, exp
 
 La página incluye un **buscador** y un **traductor** para facilitar que cualquier usuario pueda encontrar la información y acceder al contenido en diferentes idiomas.
 
-![Text alternatiu](tradu.png "Título opcional")
+![Tradcutor](traductor.png)
+![Buscador](Buscador.png)
