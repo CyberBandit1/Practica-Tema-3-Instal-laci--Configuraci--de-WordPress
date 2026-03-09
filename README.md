@@ -52,9 +52,11 @@ En esta sección se muestran algunas herramientas importantes utilizadas en cibe
 
 ![Kali linux](Kali.png)
 
-## Lenguajes de programación
+## Lenguajes de programación y demas
 
-También hay contenido sobre **lenguajes de programación** como **Python**, explicando su utilidad dentro del ámbito de la seguridad informática.
+También hay contenido sobre **lenguajes de programación** como **Python**, **Malware**.. 
+
+![posts](imagen2.png)
 
 ## Buscador y Traductor
 
