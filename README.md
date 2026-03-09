@@ -42,7 +42,7 @@ Esta página web está dedicada a la **ciberseguridad**, donde los usuarios pued
 
 ## Posts
 
-En el apartado de **Posts** se publican diferentes artículos relacionados con la ciberseguridad, como explicaciones sobre herramientas o tipos de ataques.
+En el apartado de **Posts** he publicado diferentes artículos relacionados con la ciberseguridad, como explicaciones sobre herramientas o tipos de ataques.
 
 ![Posts](image5.png)
 
@@ -54,7 +54,7 @@ En esta sección se muestran algunas herramientas importantes utilizadas en cibe
 
 ## Lenguajes de programación y demas
 
-También hay contenido sobre **lenguajes de programación** como **Python**, **Malware**.. 
+También hay contenido sobre **lenguajes de programación** como **Python**, ademas de tener mas temas como **Malware**.. 
 
 ![posts](image2.png)
 
