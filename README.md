@@ -1,63 +1,65 @@
-# Practica-Tema-3---Instalalacion-Configuracion-de-WordPress
+# Practica-Tema-3---Instalación-Configuración-de-WordPress
 
 ## Descripción del proyecto
 
-Para realizar este proyecto he desarrollado una página web para para principantes del Gym que se llama **“GymGoers”**, utilizando **WordPress**. El objetivo principal era crear un sitio web funcional donde se puedan publicar, organizar y consultar  cosas relacionadas con el Gym.
+Para realizar este proyecto he desarrollado una página web sobre **ciberseguridad** llamada **CyberInform**, utilizando **WordPress**.  
+El objetivo principal era crear un sitio web informativo donde los usuarios puedan aprender conceptos básicos sobre seguridad informática, herramientas y tipos de ataques.
 
 ## Instalación y configuración
 
-En primer lugar, instalé **LAMP** y luego instalé **Wordpress**. Después seleccioné un tema visual adecuado. que permite mostrar la información de forma clara y atractiva.
-
-Posteriormente personalicé el diseño del portal modificando diferentes elementos como el menú de navegación, los colores principales, la estructura de la página de inicio y las distintas secciones de la web para mejorar la experiencia de los usuarios.
+Primero instalé **LAMP** y posteriormente **WordPress** para poder crear la página web.  
+Después elegí un tema visual adecuado y personalicé diferentes aspectos del diseño como los colores, el menú de navegación y la estructura de la página principal para que la información fuera clara y fácil de entender.
 
 ## Organización del contenido
 
-A continuación, creé varias **categorías** para organizar correctamente. Algunas de estas categorías incluyen:
+Para organizar la información creé diferentes **categorías**, entre ellas:
 
-- Lenguajes de programacion
-- Herramientas y software
-- Tipos de ataques
+- Lenguajes de programación  
+- Herramientas y software  
+- Tipos de ataques  
+- Noticias
 
-  Tambien he añadido una categoria llamada 'Noticias' donde he puesto algunas noticias sobre el tema del mundo de la informàtica.
+Estas categorías permiten clasificar las entradas del blog y facilitar la navegación a los usuarios.
 
 ## Configuración del sitio
 
 Durante el desarrollo también configuré algunos elementos importantes del sitio web:
 
-- El menú principal de navegación  
-- La página de inicio  
-- La creación y publicación de entradas  
-- La gestión del contenido desde el panel de administración de WordPress  
+- Menú principal de navegación  
+- Página de inicio  
+- Publicación de entradas  
+- Gestión del contenido desde el panel de WordPress
 
 ## Pruebas finales
 
-Finalmente, comprobé que la página funcionara correctamente en distintos dispositivos, tanto en ordenadores como en móviles, asegurándome de que el diseño fuera **responsiva** y fácil de navegar para cualquier usuario.
+Finalmente comprobé que la página funcionara correctamente en distintos dispositivos, asegurando que el diseño sea **responsive** y fácil de usar.
 
-[Enlace a pagina](https://gymgoers.page.gd/ "Títol opcional")
+[Enlace a pagina](https://gymgoers.page.gd/ "Título opcional")
 
-# Explicacion del Portal
+# Explicación del Portal
 
-![Text alternatiu](Imagen1.png "Títol opcional")
+![Text alternatiu](Imagen1.png "Título opcional")
 
-*Esta pagina web consiste en ayudar a principantes del gym, esta pagina nació con la idea de demostrar que todos podemos mejorar nuestra salud y nuestro cuerpo paso a paso.
-En esta web puedes encontrar rutinas simples, explicaciones faciles y recomendaciones para entrenar.*
+Esta página web está dedicada a la **ciberseguridad**, donde los usuarios pueden encontrar información básica sobre herramientas, lenguajes y conceptos importantes del mundo de la seguridad informática.
 
 ## Posts
-*En el apartado de Posts hay varias entradas de diferente topicos*
 
-![Text alternatiu](post1.png "Títol opcional")
+En el apartado de **Posts** se publican diferentes artículos relacionados con la ciberseguridad, como explicaciones sobre herramientas o tipos de ataques.
 
-## Alimentacion
-*En esta seccion podras encontrarte como alimentarte bien para recuperar y ganar musculo rapidamente. Incluye Desayunos, cenas, Pre-entreno y Post-entreno.*
+![Text alternatiu](post1.png "Título opcional")
 
-![Text alternatiu](post2.png "Títol opcional")
+## Herramientas y Software
 
-## Suplementos ( Tienda )
-*Cree una tienda en mi pagina web para facilitar a los usuarios, creandolo en mi propia pagina estaria mejor porque asi los usuarios no tienen que ir cambiando de paginas para consejos y comprar etc...*
+En esta sección se muestran algunas herramientas importantes utilizadas en ciberseguridad como **Kali Linux**, además de explicaciones sobre su uso.
 
-![Text alternatiu](sup.png "Títol opcional")
+![Text alternatiu](post2.png "Título opcional")
+
+## Lenguajes de programación
+
+También hay contenido sobre **lenguajes de programación** como **Python**, explicando su utilidad dentro del ámbito de la seguridad informática.
 
 ## Buscador y Traductor
-*Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas.*
 
-![Text alternatiu](tradu.png "Títol opcional")
+La página incluye un **buscador** y un **traductor** para facilitar que cualquier usuario pueda encontrar la información y acceder al contenido en diferentes idiomas.
+
+![Text alternatiu](tradu.png "Título opcional")
